@@ -12,6 +12,9 @@ Vamos construir algo incrível juntos! 🚀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvallota&theme=transparent&show_icons=true)
 
 # Projetos
+https://github.com/danielvallota/Agenda-de-contatos
+#
+https://github.com/danielvallota/Calculadora-de-Medias
 
 # Minhas Habilidades em Linguagens de Programação
 
@@ -26,6 +29,8 @@ Vamos construir algo incrível juntos! 🚀
 
 # Linguagens mais usadas
 [![Linguagem Mais Usada](https://img.shields.io/github/languages/top/danielvallota/Agenda-de-contatos)](https://github.com/danielvallota/Agenda-de-contatos)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 # Contatos
