@@ -25,7 +25,8 @@ Vamos construir algo incrível juntos! 🚀
 
 
 # Linguagens mais usadas
-[![Linguagem Mais Usada](https://img.shields.io/github/languages/top/danielvallota/seurepositorio)](https://github.com/seuusuario/seurepositorio)
+[![Linguagem Mais Usada](https://img.shields.io/github/languages/top/danielvallota/Agenda-de-contatos)](https://github.com/danielvallota/Agenda-de-contatos)
+
 
 # Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-vallota-a68283292/)
