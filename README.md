@@ -5,7 +5,7 @@ Um entusiasta de tecnologia em constante busca por aprendizado e desafios. Inici
 
 Com uma natureza persistente e dedicada, enfrento novos desafios de frente. Acredito que a chave para o sucesso está na curiosidade constante, e é por isso que estou sempre ansioso para aprender algo novo. Minha jornada envolve horas de estudo autodidata, cursos online e projetos práticos.
 
-Estou comprometido em expandir meu conhecimento em Desenvolvimento Front, Back-end e Python, buscando não apenas excelência técnica, mas também a aplicação prática desses conhecimentos em soluções inovadoras. Se você está em busca de alguém apaixonado, dedicado e sempre disposto a aprender, estou pronto para contribuir para desafios empolgantes e crescer junto com a equipe.
+Estou comprometido em expandir meu conhecimento em Desenvolvimento Front-end, Back-end e Python, buscando não apenas excelência técnica, mas também a aplicação prática desses conhecimentos em soluções inovadoras. Se você está em busca de alguém apaixonado, dedicado e sempre disposto a aprender, estou pronto para contribuir para desafios empolgantes e crescer junto com a equipe.
 
 Vamos construir algo incrível juntos! 🚀
 
