@@ -8,9 +8,10 @@ Com uma natureza persistente e dedicada, enfrento novos desafios de frente. Acre
 Estou comprometido em expandir meu conhecimento em Desenvolvimento Front, Back-end e Python, buscando não apenas excelência técnica, mas também a aplicação prática desses conhecimentos em soluções inovadoras. Se você está em busca de alguém apaixonado, dedicado e sempre disposto a aprender, estou pronto para contribuir para desafios empolgantes e crescer junto com a equipe.
 
 Vamos construir algo incrível juntos! 🚀
-#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvallota&theme=transparent&show_icons=true)
+
+# Projetos
 
 # Minhas Habilidades em Linguagens de Programação
 
@@ -22,7 +23,11 @@ Vamos construir algo incrível juntos! 🚀
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | Básico              |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) | Intermediário (AWS Cloud Pratitioner)                    |
 
-## Contatos
+
+# Linguagens mais usadas
+[![Linguagem Mais Usada](https://img.shields.io/github/languages/top/seuusuario/seurepositorio)](https://github.com/seuusuario/seurepositorio)
+
+# Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-vallota-a68283292/)
 
               
