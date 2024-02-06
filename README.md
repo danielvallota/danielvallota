@@ -15,9 +15,14 @@
 
 
 
- 🔭 Estou trabalhando ultimamente em [Agenda de contatos](https://github.com/danielvallota/Agenda-de-contatos)
+ 🔭 Estou trabalhando ultimamente em Galeria de fotos - (https://github.com/danielvallota/Galeria-de-fotos)
 
  🌱 Estou aprendendo **Java Script, HTML, CSS e jQuery**
+
+ :) Link dos principais projetos:<br>
+ https://github.com/danielvallota/Site-Catlife-Care<br>
+ https://github.com/danielvallota/Calculadora-de-Medias<br>
+ https://github.com/danielvallota/Agenda-de-contatos<br>
 
  Todos os meus projetos estão disponíveis em [https://github.com/danielvallota](https://github.com/danielvallota)
 
