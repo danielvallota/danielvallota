@@ -15,7 +15,7 @@
 
 
 
- 🔭 Estou trabalhando ultimamente em Galeria de fotos - (https://github.com/danielvallota/Galeria-de-fotos)
+ 🔭 Estou trabalhando ultimamente em um site de carros com carrossel de imagens e algumas validações nos formulários  - (https://carrossel-carros.vercel.app/)
 
  🌱 Estou aprendendo **Java Script, HTML, CSS e jQuery**
 
