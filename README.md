@@ -17,7 +17,7 @@
 
  🔭 Estou trabalhando ultimamente em um site de carros com carrossel de imagens e algumas validações nos formulários  - (https://carrossel-carros.vercel.app/)
 
- 🌱 Estou aprendendo **Java Script, HTML, CSS e jQuery**
+ 🌱 Estou aprendendo **Java Script, HTML, CSS, Slick e jQuery**
 
  :) Link dos principais projetos:<br>
  https://github.com/danielvallota/Site-Catlife-Care<br>
